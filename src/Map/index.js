@@ -36,8 +36,8 @@ class Map extends Component {
   };
 
  Map.defaultProps = {
-    center: [59.938043, 30.337157],
-    zoom: 0.01
+    center: [25.0271315,115.1830676],
+    zoom: 0.1
  };
 
 export default Map
